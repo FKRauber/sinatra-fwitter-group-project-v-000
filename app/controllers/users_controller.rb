@@ -1,5 +1,3 @@
-require 'pry'
-
 class UsersController < ApplicationController
 
   get '/users/:slug' do
